@@ -1,0 +1,10 @@
+data/
+output/
+.env
+*.sqlite*
+__pycache__/
+*.pyc
+.clasp.json
+.clasprc.json
+node_modules/
+.venv/

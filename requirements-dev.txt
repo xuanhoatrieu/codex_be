@@ -1,0 +1,4 @@
+-r worker/requirements.txt
+openpyxl==3.1.5
+reportlab==4.4.9
+Pillow==13.0.0
