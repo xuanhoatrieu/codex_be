@@ -2,6 +2,14 @@
 
 Ứng dụng Google Sheets / Apps Script cho một cửa và cán bộ chuyên môn, kèm công cụ chuẩn hóa Excel và worker đọc PDF. Giao diện tiếng Việt, hỗ trợ máy tính và điện thoại.
 
+## Tải bản cài
+
+- [ZIP mã nguồn và bản cài một file](distribution/Ho_so_Hop_Thinh_ma_nguon.zip): mở tệp trên GitHub, chọn **Download raw file** để tải.
+- [Code.gs gộp một file](distribution/Code.gs): chép vào dự án Apps Script mới, theo [hướng dẫn kích hoạt](docs/TRIEN_KHAI_GOOGLE.md).
+- Có thể chọn **Code → Download ZIP** trên nhánh `codex/ho-so-google-sheets`.
+
+Các tệp phân phối trên GitHub chỉ chứa mã nguồn và tài liệu. Excel hồ sơ, migration JSON, bản audit, cơ sở dữ liệu, khóa và gói có dữ liệu cá nhân không được đưa lên repository.
+
 ## Những phần đã có
 
 - Tiếp nhận; bàn giao theo hồ sơ hoặc đợt; xác nhận nhận hoặc không nhận có lý do.
